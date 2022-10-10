@@ -4,13 +4,13 @@ Last year I have started learning by myself mandarin chinese, maybe you don't kn
 It sounds a bit complicated, but there is always a solution. Actually, if you basically want to get on by life you may need only 3000 words. So the idea of this project is to create a flash card of the 3000 most frequently used chinese characters.
 
 ### 📌 Keywords:
-    	Tkinter:
+    Tkinter:
 is the standard Python interface to the Tcl/Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, including macOS, as well as on Windows systems.
       
-      Cnavas:
+    Canvas:
 Is a rectangular area intended for drawing pictures or other complex layouts. You can place graphics, text, widgets or frames on a Canvas.
 
-    	Pandas:
+    Pandas:
 It is a Python library for data analysis. Pandas is built on top of two core Python libraries—matplotlib for data visualization and NumPy for mathematical operations. Pandas introduced two new types of objects for storing data that make analytical tasks easier and eliminate the need to switch tools: Series, which have a list-like structure, and DataFrames, which have a tabular structure.
 In this project we are going to use DataFrames.
 
