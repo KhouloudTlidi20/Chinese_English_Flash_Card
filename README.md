@@ -1,6 +1,6 @@
 # 🥢 Chinese_English_Flash_Card
 ## Overview:
-Last year I have started learning with myself mandarin chinese, maybe you don't know there is no alphabet in chinese, there are just characters like 🈴= Hé,🉑=Kě,㊗️= Zhù..associated with their pinyin which is the official romanization system for Standard Mandarin Chinese in Mainland China, and to some extent, in Taiwan and Singapore. It is often used to teach Mandarin, normally written in Chinese form, to learners already familiar with the Latin alphabet.\
+Last year I have started learning by myself mandarin chinese, maybe you don't know there is no alphabets in chinese, there are just characters like 🈴= Hé,🉑=Kě,㊗️= Zhù..associated with their pinyin which is the official romanization system for Standard Mandarin Chinese in Mainland China, and to some extent, in Taiwan and Singapore. It is often used to teach Mandarin, normally written in Chinese form, to learners already familiar with the Latin alphabet.\
 It sounds a bit complicated, but there is always a solution. Actually, if you basically want to get on by life you may need only 3000 words. So the idea of this project is to create a flash card of the 3000 most frequently used chinese characters.
 
 ### 📌 Keywords:
