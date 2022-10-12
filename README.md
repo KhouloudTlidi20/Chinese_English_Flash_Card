@@ -1,7 +1,7 @@
 # 🥢 Chinese_English_Flash_Card
 ## Overview:
 Last year I have started learning by myself Mandarin Chinese, maybe you don't know there is no alphabets in chinese, there are just characters like 🈴= Hé,🉑=Kě,㊗️= Zhù..associated with their pinyin which is the official romanization system for Standard Mandarin Chinese in Mainland China, and to some extent, in Taiwan and Singapore. It is often used to teach Mandarin, normally written in Chinese form, to learners already familiar with the Latin alphabet.\
-It sounds a bit complicated, but there is always a solution. Actually, if you basically want to get on by life you may need only 3000 words. So the idea of this project is to create a flash card of the 3000 most frequently used chinese characters.\
+It sounds a bit complicated, but there is always a solution. Actually, if you basically want to get on by life you may need only **3000 words**. So the idea of this project is to create a flash card of the 3000 most frequently used chinese characters.\
 To see the final project you will find ☝🏻 an illustrative video for that.
 
 ### 📌 Keywords:
@@ -23,7 +23,7 @@ In this project we are going to use DataFrames.
 
 ## 📜 Steps to build the programme:
 1. I picked 3000 mandarin chinese from [A Frequency Dictionary of Mandarin Chinese](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/A_Frequency_Dictionary_of_Mandarin_Chinese)
-2. Translate chinese characters to english in the google sheets using the syntax GOOGLETRANSLATE(text, [source_language, target_language]), then seperate simplified chinese characters from traditional and from their pinyin by using the function SPLIT(source;" / "). [Google sheets](https://docs.google.com/spreadsheets/d/14ZaTttfKyJw538n7LnV7DW7G0MV-FpxsmcF4chU8lDs/edit?usp=sharing)
+2. Translate chinese characters to english in the google sheets using the syntax **GOOGLETRANSLATE(text, [source_language, target_language])** , then seperate simplified chinese characters from traditional and from their pinyin by using the **function SPLIT(source;" / ")**. [Google sheets](https://docs.google.com/spreadsheets/d/14ZaTttfKyJw538n7LnV7DW7G0MV-FpxsmcF4chU8lDs/edit?usp=sharing)
 3. Head to writing code.
 
 ## 🔎 Helpful Links:
